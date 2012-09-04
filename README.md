@@ -1,4 +1,7 @@
-Модуль для Joomla 1.5 Virtuemart 1.x
+(For PayU Ukraine and Russian ONLY)
+-------
+
+Модуль для Joomla 1.5 Virtuemart 1.x 
 ==========
 ( Протестирован на Joomla 1.5.25 Virtuemart 1.1.9 )
 -------
